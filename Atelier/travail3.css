@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif;
+    background: linear-gradient(to left,#25ed9a,#13de68);
+}
+form{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+fieldset{
+    justify-content: center;
+    text-align: center;
+    display: grid;
+    width: 350px;
+    background-color: white;
+    border: none;
+}
+input{
+    margin-top: 20px;
+    height: 30px;
+    background-color: rgb(226, 224, 224);
+    border: none;
+}
+input[type='submit']{
+    background: linear-gradient(to left,#25ed9a,#13de68);
+}
+.p2{
+    color: rgba(0, 0, 0, 0.2);
+}
+a{
+    color: #13de68;
+}
